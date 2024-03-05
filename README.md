@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I´m Duarte Thiago 👋
+[![BLog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://thaigodeveloper.netlify.app/)](https://thaigodeveloper.netlify.app/)
+[![Instagram](https://img.shields.io/website-up-down-green-red/http/monip.org.svg website:https://thaigodeveloper.netlify.app/)](https://thaigodeveloper.netlify.app/)
 
 <!--
 **AlphaByteCompany/AlphaByteCompany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
